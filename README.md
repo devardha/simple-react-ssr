@@ -10,7 +10,7 @@ npm run dev
 ```
 
 ## What's in the box?
-1. A simple react app boilerplate so you can easyly code with zero configuration
+1. A simple react app boilerplate so you can easily code with zero configuration
 2. ES6, React, and JSX Syntax support
 3. Server-Side rendering react app
 4. CSS module support with SCSS/Sass
