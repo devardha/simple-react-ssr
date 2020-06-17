@@ -9,7 +9,7 @@ npm install
 npm run dev
 ```
 
-## What's is in the box?
+## What's in the box?
 1. A simple react app boilerplate so you can easyly code with zero configuration
 2. ES6, React, and JSX Syntax support
 3. Server-Side rendering react app
